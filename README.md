@@ -8,4 +8,4 @@ https://gh.idayer.com/https://raw.githubusercontent.com/20101010/favtv/jptv/favt
 
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/20101010/favtv/jptv/favtv
 
-https://gh.api.99988866.xyz/https://rawgithubusercontent.com/20101010/favtv/jptv/favtv
+https://gh.api.99988866.xyz/https://raw.githubusercontent.com/20101010/favtv/jptv/favtv
