@@ -118,10 +118,25 @@ BS/CS-primehome,#genre#
 ＮＨＫＥテレ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=10&bind=0&uin=159413&playseek=0
 日テレ１,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=10&bind=0&uin=159413&playseek=0
 ＴＢＳ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=10&bind=0&uin=159413&playseek=0
-テレビ大阪,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=10&bind=0&uin=159413&playseek=0
+フジテレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=10&bind=0&uin=159413&playseek=0
 テレビ朝日,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=10&bind=0&uin=159413&playseek=0
 テレビ東京,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=10&bind=0&uin=159413&playseek=0
 ＴＯＫＹＯ　ＭＸ１,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=0
+地/BS/CS-nekocdn,#genre#
+ＮＨＫ総合　東京,https://vnpt.nekocdn.xyz/hls/NHK_G/index.m3u8
+ＮＨＫＥテレ,https://vnpt.nekocdn.xyz/hls/NHK_E/index.m3u8
+日テレ１,https://vnpt.nekocdn.xyz/hls/Nippon_TV/index.m3u8
+ＴＢＳ,https://vnpt.nekocdn.xyz/hls/TBS/index.m3u8
+フジテレビ,https://vnpt.nekocdn.xyz/hls/Fuji_TV/index.m3u8
+テレビ朝日,https://vnpt.nekocdn.xyz/hls/TV_Asahi/index.m3u8
+テレビ東京,https://vnpt.nekocdn.xyz/hls/TV_Tokyo/index.m3u8
+ＴＯＫＹＯ　ＭＸ１,https://vnpt.nekocdn.xyz/hls/Tokyo_MX1/index.m3u8
+ＮＨＫ　ＢＳ,https://vnpt.nekocdn.xyz/hls/NHK_BS/index.m3u8
+ＢＳ１１イレブン,https://vnpt.nekocdn.xyz/hls/BS11/index.m3u8
+ＢＳアニマックス,https://vnpt.nekocdn.xyz/hls/Animax/index.m3u8
+ＡＴ－Ｘ,https://vnpt.nekocdn.xyz/hls/AT-X/index.m3u8
+ＭＴＶ,https://vnpt.nekocdn.xyz/hls/MTV/index.m3u8
+スペースシャワーＴＶ,https://vnpt.nekocdn.xyz/hls/Space_Shower/index.m3u8
 JPTV-Other,#genre#
 天气新闻,https://movie.mcas.jp/mcas/wn1_2/master.m3u8
 天气新闻,http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
@@ -132,6 +147,7 @@ NHK世界,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/in
 nhkworld,https://bmcc.nhkworld.jp/live/index_1M.m3u8
 NTV News24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 Fuji Tv,http://jp.vthanhnetwork.com/Fuji_TV/index.m3u8
+AT-X (neetball),https://neetball.net/live/neet3.m3u8
 TBS,https://tbs2.mov3.co/hls/tbs.m3u8
 TBS,https://tbs4.mov3.co/hls/tbs.m3u8
 Nippon,https://ntv4.mov3.co/hls/ntv.m3u8
