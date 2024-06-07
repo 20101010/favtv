@@ -137,6 +137,15 @@ BS/CS-primehome,#genre#
 ＡＴ－Ｘ,https://vnpt.nekocdn.xyz/hls/AT-X/index.m3u8
 ＭＴＶ,https://vnpt.nekocdn.xyz/hls/MTV/index.m3u8
 スペースシャワーＴＶ,https://vnpt.nekocdn.xyz/hls/Space_Shower/index.m3u8
+JPTV-テスト,#genre#
+ＮＨＫ総合　大阪(テスト),http://csui.djtmewibu.com/nhkg/index.m3u8
+ｔｖｋ(テスト),http://csui.djtmewibu.com/tvk/index.m3u8
+テレ玉(テスト),http://csui.djtmewibu.com/tvs/index.m3u8
+ＴＯＫＹＯ　ＭＸ２(テスト),http://csui.djtmewibu.com/mx2/index.m3u8
+新潟テレビ２１(テスト),http://csui.djtmewibu.com/ux21/index.m3u8
+ＲＣＣテレビ１(テスト),http://csui.djtmewibu.com/rcc/index.m3u8
+ＢＳ１１イレブン(テスト),http://csui.djtmewibu.com/bs11/index.m3u8
+ＡＴ－Ｘ　ＨＤ(テスト),http://csui.djtmewibu.com/at-x/index.m3u8
 JPTV-Other,#genre#
 天气新闻,https://movie.mcas.jp/mcas/wn1_2/master.m3u8
 天气新闻,http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
@@ -146,6 +155,7 @@ NHK世界,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/in
 NHK世界,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
 nhkworld,https://bmcc.nhkworld.jp/live/index_1M.m3u8
 NTV News24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+NTV News24,https://n24-cdn-live.ntv.co.jp/ch02/index.m3u8
 Fuji Tv,http://jp.vthanhnetwork.com/Fuji_TV/index.m3u8
 AT-X (neetball),https://neetball.net/live/neet3.m3u8
 TBS,https://tbs2.mov3.co/hls/tbs.m3u8
