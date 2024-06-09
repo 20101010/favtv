@@ -138,6 +138,10 @@ BS/CS-primehome,#genre#
 ＭＴＶ,https://vnpt.nekocdn.xyz/hls/MTV/index.m3u8
 スペースシャワーＴＶ,https://vnpt.nekocdn.xyz/hls/Space_Shower/index.m3u8
 JPTV-テスト,#genre#
+日テレプラス(テスト),https://mirror.ghproxy.com/https://raw.githubusercontent.com/20101010/favtv/test/live01.m3u8
+テレ朝チャンネル１(テスト),https://mirror.ghproxy.com/https://raw.githubusercontent.com/20101010/favtv/test/live02.m3u8
+テレ朝チャンネル２(テスト),https://mirror.ghproxy.com/https://raw.githubusercontent.com/20101010/favtv/test/live03.m3u8
+ＡＴ－Ｘ(テスト),https://mirror.ghproxy.com/https://raw.githubusercontent.com/20101010/favtv/test/live04.m3u8
 ＮＨＫ総合　大阪(テスト),http://csui.djtmewibu.com/nhkg/index.m3u8
 ｔｖｋ(テスト),http://csui.djtmewibu.com/tvk/index.m3u8
 テレ玉(テスト),http://csui.djtmewibu.com/tvs/index.m3u8
