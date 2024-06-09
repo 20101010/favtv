@@ -1,3 +1,5 @@
 #EXTM3U
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
 #EXTINF: 0, 日テレプラス
-https://shorturl.at/IZJWC#300.ts
+http://shorturl.at/IZJWC#300.ts
