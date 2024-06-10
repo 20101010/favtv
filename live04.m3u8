@@ -1,3 +1,5 @@
 #EXTM3U
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
 #EXTINF: 0, アニメシアターX
 https://shorturl.at/H7C6E#A-TX.ts
